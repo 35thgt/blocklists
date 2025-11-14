@@ -1,5 +1,3 @@
-# Custom Block List
-# ------------------------------------[FILTERS]-------------------------------------
 roblox.com
 pokemonshowdown.com
 pokemondb.net
