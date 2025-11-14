@@ -10,3 +10,4 @@
 0.0.0.0 voice.roblox.com
 0.0.0.0 followings.roblox.com
 0.0.0.0 games.roblox.com
+0.0.0.0 shutup.com
