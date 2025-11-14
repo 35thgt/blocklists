@@ -1,13 +1,13 @@
 # Custom Block List
 # ------------------------------------[FILTERS]-------------------------------------
-0.0.0.0 roblox.com
-0.0.0.0 pokemonshowdown.com
-0.0.0.0 pokemondb.net
-0.0.0.0 rbxcdn.com
-0.0.0.0 friends.roblox.com
-0.0.0.0 ecsv2.roblox.com
-0.0.0.0 client-telemetry.roblox.com
-0.0.0.0 voice.roblox.com
-0.0.0.0 followings.roblox.com
-0.0.0.0 games.roblox.com
-0.0.0.0 shutup.com
+roblox.com
+pokemonshowdown.com
+pokemondb.net
+rbxcdn.com
+friends.roblox.com
+ecsv2.roblox.com
+client-telemetry.roblox.com
+voice.roblox.com
+followings.roblox.com
+games.roblox.com
+shutup.com
